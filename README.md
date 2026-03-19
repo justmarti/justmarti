@@ -2,4 +2,4 @@
 
 Software Engineering student focused on iOS.
 
-[Facts ↗](https://getfacts.app) - Unbiased News
+🚀 [Facts – Unbiased News ↗](https://getfacts.app)
